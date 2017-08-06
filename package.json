@@ -2,10 +2,16 @@
   "name": "fe-challenge",
   "version": "1.0.0",
   "scripts": {
-    "start": "node ./index"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   },
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.10"
   },
   "devDependencies": {
     "chance": "^1.0.4",
