@@ -1,0 +1,16 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  max-width: 768px;
+  padding: 10px;
+  margin: auto;
+  color: #4d4d4d;
+}
+
+a {
+  display: block;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
